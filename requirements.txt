@@ -1,0 +1,5 @@
+streamlit
+requests
+duckduckgo-search
+pydub
+python-dotenv
